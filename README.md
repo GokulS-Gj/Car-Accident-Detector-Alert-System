@@ -1,8 +1,6 @@
 # Car-Accident-Detector-Alert-System
 Car Accident Detector &amp; Alert System using BlackBox Technology 
 
-# Car Accident Detector & Recorder
-
 ## 📌 Introduction
 Car accidents are a major cause of fatalities worldwide. The **Car Accident Detector & Recorder** is an **IoT-based smart system** designed to detect car accidents, record crucial data, and send instant alerts to emergency contacts. This system helps in **saving lives** by providing **real-time location tracking**, accident data storage, and **immediate alerts** for critical incidents such as fire, vibration, and alcohol detection.
 
